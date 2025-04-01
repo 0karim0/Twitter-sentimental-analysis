@@ -48,11 +48,7 @@ Twitter-sentimental-analysis/
    ```sh
    pip install -r requirements.txt
    ```
-4. Download necessary NLP models:
-   ```python
-   import nltk
-   nltk.download('stopwords')
-   ```
+
 
 ## Usage
 ### Train the Model
